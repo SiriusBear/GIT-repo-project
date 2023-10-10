@@ -1,0 +1,252 @@
+commit ba7a2199acbb2409e2084adb755051858a1cfdf8
+Merge: eb73260 fc6c2ec
+Author: Zachary Middleton <texasonfire@gmail.com>
+Date:   Mon Oct 9 19:20:31 2023 -0500
+
+    Updated student ID
+
+commit eb732606e6fba5b89fd78ea05bd90d38492e6825
+Author: Zachary Middleton <texasonfire@gmail.com>
+Date:   Mon Oct 9 19:19:45 2023 -0500
+
+    Updated student ID
+
+commit fc6c2ec48907f9be79c7eb397e25f0ae641dec3f
+Author: Zachary Middleton <texasonfire@gmail.com>
+Date:   Mon Oct 9 19:19:06 2023 -0500
+
+    Updated student ID
+
+commit d9e0189618cce1ff67fdaf49a8fd1104c5b2f1e2
+Author: Zachary Middleton <texasonfire@gmail.com>
+Date:   Mon Oct 9 19:15:45 2023 -0500
+
+    deleted change
+
+commit 7655be80340359f68e00ca1a1cabb91a017e4a81
+Author: Zachary Middleton <texasonfire@gmail.com>
+Date:   Mon Oct 9 19:13:34 2023 -0500
+
+    Added version and user iD
+
+commit 5ee3637a2a3a7b2340c5629f05fdbec321c2d3a1
+Author: Zachary Middleton <texasonfire@gmail.com>
+Date:   Mon Oct 9 19:01:49 2023 -0500
+
+    Changed User ID and added git version
+
+commit 398e02e0513980bd00258ff629f605f2b4f4e599
+Author: Zachary Middleton <texasonfire@gmail.com>
+Date:   Mon Oct 9 18:52:38 2023 -0500
+
+    Changed User ID and added git version
+
+commit 17dfe0a81cfe018381cea980420ff70663a1c33d
+Author: Zachary Middleton <texasonfire@gmail.com>
+Date:   Sun Oct 8 11:18:55 2023 -0500
+
+    Added text to customer section
+
+commit a7b1241cb5465a52215c0a69b2a1398d218e854b
+Author: Zachary Middleton <texasonfire@gmail.com>
+Date:   Sun Oct 8 11:15:58 2023 -0500
+
+    Added text to contact section
+
+commit 3de424cedd94aa1d522ba60714bf7b72f70750a8
+Author: Zachary Middleton <texasonfire@gmail.com>
+Date:   Sun Oct 8 11:13:59 2023 -0500
+
+    Added text to about section
+
+commit 63e5701dc66dd87056f7ade6a52d7f3cd0db07f8
+Author: Zachary Middleton <zmidd15@wgu.edu>
+Date:   Sun Oct 8 14:52:13 2023 +0000
+
+    Upload New File
+
+commit fae50b8d605ae976d237325851e794882620b195
+Author: Zachary Middleton <zmidd15@wgu.edu>
+Date:   Sun Oct 8 14:51:59 2023 +0000
+
+    Add new directory
+
+commit 91ca240833ce096a15f14a7becfbb411ee99afdd
+Author: Zachary Middleton <zmidd15@wgu.edu>
+Date:   Sun Oct 8 14:51:43 2023 +0000
+
+    Delete style.css
+
+commit 9fe0dc11b42691aad74d51ac988b371dbcf284dc
+Author: Zachary Middleton <zmidd15@wgu.edu>
+Date:   Sun Oct 8 14:51:23 2023 +0000
+
+    Delete script.js
+
+commit 4ec01d8049fa9805ace0663c2f04758efce055ba
+Author: Zachary Middleton <zmidd15@wgu.edu>
+Date:   Sun Oct 8 14:51:09 2023 +0000
+
+    Upload New File
+
+commit 5701f81197dc2d87087c4b33c4c105ee10d54f06
+Author: Zachary Middleton <zmidd15@wgu.edu>
+Date:   Sun Oct 8 14:50:54 2023 +0000
+
+    Add new directory
+
+commit e650f42f66f8b6f74d1a95cbd256ed692c619b5d
+Author: Zachary Middleton <zmidd15@wgu.edu>
+Date:   Sun Oct 8 14:50:41 2023 +0000
+
+    Delete js
+
+commit 708e7d978de25da5e375cc76ddf20cf7ce39492e
+Author: Zachary Middleton <zmidd15@wgu.edu>
+Date:   Sun Oct 8 14:43:04 2023 +0000
+
+    Upload New File
+
+commit 72e806fdb6e5d4c60558dc9b3227a427b480868b
+Author: Zachary Middleton <zmidd15@wgu.edu>
+Date:   Sun Oct 8 14:42:54 2023 +0000
+
+    Upload New File
+
+commit a7bdd1b67d70d029000b1109220a75889fc65763
+Author: Zachary Middleton <zmidd15@wgu.edu>
+Date:   Sun Oct 8 14:42:42 2023 +0000
+
+    Upload New File
+
+commit 3ab640c97db3c125cfc53da2de9d1d6ad6afc04e
+Author: Zachary Middleton <zmidd15@wgu.edu>
+Date:   Sun Oct 8 14:42:28 2023 +0000
+
+    Upload New File
+
+commit 8def0838062e56d4dc3db09f8e501628fb438364
+Author: Zachary Middleton <zmidd15@wgu.edu>
+Date:   Sun Oct 8 14:42:13 2023 +0000
+
+    Upload New File
+
+commit b5729d51b937d33267ef8738081c353f0de4ccb2
+Author: Zachary Middleton <zmidd15@wgu.edu>
+Date:   Sun Oct 8 14:41:40 2023 +0000
+
+    Upload New File
+
+commit c8f49a52718951fc3eae61e023fcef8bad664651
+Author: Zachary Middleton <zmidd15@wgu.edu>
+Date:   Sun Oct 8 14:41:02 2023 +0000
+
+    Upload New File
+
+commit 244860729374b68943918e91a777bdafe6ee082b
+Author: Zachary Middleton <zmidd15@wgu.edu>
+Date:   Sun Oct 8 14:40:50 2023 +0000
+
+    Upload New File
+
+commit 7562db60f37d8c178a86d7d265a39e10ac11381f
+Author: Zachary Middleton <zmidd15@wgu.edu>
+Date:   Sun Oct 8 14:40:28 2023 +0000
+
+    Upload New File
+
+commit 0fc3f8984c95ae8a97d038ab7ffa6c5609aa46a1
+Author: Zachary Middleton <zmidd15@wgu.edu>
+Date:   Sun Oct 8 14:39:53 2023 +0000
+
+    Upload New File
+
+commit 6f73905defd1b7e76a80a6eea7454bb773fad788
+Author: Zachary Middleton <zmidd15@wgu.edu>
+Date:   Sun Oct 8 14:39:37 2023 +0000
+
+    Upload New File
+
+commit f90a69c4f39e7214b5548b20cf4635ae81123ba4
+Author: Zachary Middleton <zmidd15@wgu.edu>
+Date:   Sun Oct 8 14:39:25 2023 +0000
+
+    Upload New File
+
+commit f2fad4bb1473207df4c4942e0edacfda26878e51
+Author: Zachary Middleton <zmidd15@wgu.edu>
+Date:   Sun Oct 8 14:39:04 2023 +0000
+
+    Upload New File
+
+commit ddf5dc7b340411e308747df427ec0aae8d354ffe
+Author: Zachary Middleton <zmidd15@wgu.edu>
+Date:   Sun Oct 8 14:38:40 2023 +0000
+
+    Upload New File
+
+commit cd97b95e9fa9eed721343dd1e04e2f56a8d8ecdb
+Author: Zachary Middleton <zmidd15@wgu.edu>
+Date:   Sun Oct 8 14:38:26 2023 +0000
+
+    Upload New File
+
+commit 51ad23d21dd3e34b45fc554c7ded44290671bde7
+Author: Zachary Middleton <zmidd15@wgu.edu>
+Date:   Sun Oct 8 14:38:06 2023 +0000
+
+    Upload New File
+
+commit 1855d19396dcc90632ca69c984a3d02dfa8604cd
+Author: Zachary Middleton <zmidd15@wgu.edu>
+Date:   Sun Oct 8 14:37:51 2023 +0000
+
+    Upload New File
+
+commit 39d06a1315a993ef27a0356eab352cef4e69cc76
+Author: Zachary Middleton <zmidd15@wgu.edu>
+Date:   Sun Oct 8 14:35:01 2023 +0000
+
+    Delete style.css
+
+commit 31b66ca11849150ccb696244be150239464d67c2
+Author: Zachary Middleton <zmidd15@wgu.edu>
+Date:   Sun Oct 8 14:34:18 2023 +0000
+
+    Add new file
+
+commit 93b6f97d61a7ee2bd2725ac16c96ae5b67ae8cd4
+Author: Zachary Middleton <zmidd15@wgu.edu>
+Date:   Sun Oct 8 14:34:00 2023 +0000
+
+    Upload New File
+
+commit 0d8a6e65b0156e1947194fdc1d23df7e67d59edc
+Author: Zachary Middleton <zmidd15@wgu.edu>
+Date:   Sun Oct 8 14:33:40 2023 +0000
+
+    Upload New File
+
+commit e5352a628b7275d6ef5eb0c991b1e17b32f07a2a
+Author: Zachary Middleton <zmidd15@wgu.edu>
+Date:   Sun Oct 8 14:33:27 2023 +0000
+
+    Upload New File
+
+commit f2b8440dbb4b9bc2a166607037e1adb5dbaac8f9
+Author: Zachary Middleton <zmidd15@wgu.edu>
+Date:   Sun Oct 8 14:33:12 2023 +0000
+
+    Upload New File
+
+commit e29700d5648cd6395501b1d5098e372a9850a306
+Author: Zachary Middleton <zmidd15@wgu.edu>
+Date:   Sun Oct 8 14:32:58 2023 +0000
+
+    Upload New File
+
+commit 2664418f380a003dd1f12c1e7277bb54c269823c
+Author: Zachary Middleton <zmidd15@wgu.edu>
+Date:   Sun Oct 8 14:31:15 2023 +0000
+
+    Initial commit

@@ -1,0 +1,2 @@
+Fixed the merge conflict in customer, about, and contact html files. Added text to head parargraph to better convay the message.
+
