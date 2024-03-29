@@ -1,2 +1,1 @@
-git version 1.0
-
+A git repo used in a project 
